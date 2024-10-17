@@ -5,7 +5,7 @@ Release:            %mkrel 10
 Group:              Development/Python
 Requires:           zope
 License:            GPL
-URL:                http://www.j-david.net/software/localizer/
+URL:                https://www.j-david.net/software/localizer/
 BuildRoot:          %{_tmppath}/%{name}-%{version}-rootdir
 Buildarch:          noarch
 
