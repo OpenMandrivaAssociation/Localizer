@@ -1,7 +1,7 @@
 Name:               Localizer
 Summary:            A Zope product to localize applications
 Version:            1.0.1
-Release:            %mkrel 10
+Release:            11
 Group:              Development/Python
 Requires:           zope
 License:            GPL
